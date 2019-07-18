@@ -7,7 +7,7 @@ android {
     buildToolsVersion "28.0.3"
 
     defaultConfig {
-        applicationId "net.bitplane.android.microphone"
+        applicationId 'com.coach.mic.microphone'
         minSdkVersion 23
         targetSdkVersion 29
     }

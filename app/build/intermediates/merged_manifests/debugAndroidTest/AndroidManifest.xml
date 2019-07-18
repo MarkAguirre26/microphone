@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.bitplane.android.microphone.test">
+    package="com.coach.mic.microphone.test">
 
     <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="29" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="net.bitplane.android.microphone"
+                     android:targetPackage="com.coach.mic.microphone"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for net.bitplane.android.microphone"/>
+                     android:label="Tests for com.coach.mic.microphone"/>
 </manifest>
