@@ -1,4 +1,4 @@
-#Thu Jul 18 15:09:32 CST 2019
+#Thu Jul 18 17:12:29 CST 2019
 base.0=C\:\\Users\\mark.s.r.aguirre\\Desktop\\micro\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 path.1=classes.dex
 renamed.1=classes2.dex
